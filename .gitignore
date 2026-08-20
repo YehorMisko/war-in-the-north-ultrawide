@@ -1,0 +1,6 @@
+witn.exe
+witn.exe.orig
+ultrawide_report.txt
+*.uwbak
+__pycache__/
+*.pyc
